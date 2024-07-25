@@ -13,7 +13,7 @@ setup(
     author='Ronnypetson Souza da Silva',
     author_email='rsronnypetson4@gmail.com',
     install_requires=[
-       "torch ==1.3.1",
+       "torch ==2.2.0",
        "scipy >= 1.3.1",
        "numpy >= 1.17.2"
    ],
